@@ -8,8 +8,6 @@ from src.mlproject.components.model_tranier import ModelTrainerConfig,ModelTrain
 import sys
 
 
-
-
 if __name__=="__main__":
     logging.info("The execution has started")
 
